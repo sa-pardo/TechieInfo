@@ -1,2 +1,10 @@
 # TechieInfo
-A redesing of the news aggregator HackerNews
+
+## What is TechieInfo?
+
+## Why should i use TechieInfo?
+
+## How to use TechieInfo?
+
+## Author
+Sebastian Pardo
